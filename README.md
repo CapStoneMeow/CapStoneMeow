@@ -18,11 +18,12 @@
 
 - Clova + 파인튜닝한 KoBERT 모델을 통한 대화 기반 학습자 수준 판별
 
-## 4. 캡스톤 발표 자료 
-  
-![1](https://github.com/user-attachments/assets/b07c6237-18cf-4a62-8fe2-547dbaaecdf8)
 ![3](https://github.com/user-attachments/assets/c39e0926-319c-4641-9d1d-2cf2f763ba28)
+
+## 4. 서비스 구조도 
 ![12](https://github.com/user-attachments/assets/60024ec6-28e1-4ecd-b9e8-e95160af4bf5)
+
+## 5. 앱 기능 설명
 ![14](https://github.com/user-attachments/assets/e581b20c-5fb9-4a8f-bb4b-c20396e5a7ab)
 ![13](https://github.com/user-attachments/assets/7166747d-ca4c-49cd-829e-72dacc34ea45)
 ![14](https://github.com/user-attachments/assets/c808d750-d06f-4d4d-89c2-ca59f08f2add)
