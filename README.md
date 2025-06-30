@@ -3,7 +3,7 @@
 - 개발기간 : 2025.03 ~ 2025.06
 
 ## 1. 배포 주소 
-
+https://ddok-to.vercel.app/
 
 ## 2. 팀 소개 
 ![11](https://github.com/user-attachments/assets/80e316f7-56c4-4f6a-948e-d5a49e41f21c)
